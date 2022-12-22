@@ -18,7 +18,7 @@ You can find hardware design for this board in *Rotary encoder with easyC* hardw
 
 ### Documentation
 
-Access Arduino library documentation [here](https://SolderedElectronics.github.io/Soldered-Generic-Arduino-Library/).
+Access Arduino library documentation [here](https://solderedelectronics.github.io/Soldered-Rotary-Encoder-With-easyC-Arduino-Library/).
 
 - Tutorial for using the Rotary encoder with easyC board
 - Installing an Arduino library
@@ -27,7 +27,7 @@ Access Arduino library documentation [here](https://SolderedElectronics.github.i
 
 The library is compatible with board & microcontroller families shown in green below: 
 
-[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-Generic-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/compile_test.yml)
+[![Compile Sketches](http://github-actions.40ants.com/SolderedElectronics/Soldered-Rotary-Encoder-With-easyC-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/SolderedElectronics/Soldered-Rotary-Encoder-With-easyC-Arduino-Library/actions/workflows/compile_test.yml)
 
 
 ### About Soldered
