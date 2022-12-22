@@ -52,7 +52,7 @@ void Rotary::getData()
 
 /**
  * @brief                   Get counter from rotary encoder breakout.
- * 
+ *
  * @return                  Counter variable.
  */
 long Rotary::getCount()
@@ -63,11 +63,11 @@ long Rotary::getCount()
 
 /**
  * @brief                   Get state of the rotary encoder.
- * 
+ *
  * @return                  0 if the rotary encoder doesn't move
  *                          1 if the rotary encoder rotates clockwise
  *                          2 if the rotary encoder rotates counterclockwise
- *                          3 if the button is pressed                          
+ *                          3 if the button is pressed
  */
 byte Rotary::getState()
 {
