@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['readdata_0',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readregister_1',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['initializenative_0',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()'],['../class_rotary.html#a97492419cda3f366bc53d775c91203e6',1,'Rotary::initializeNative()']]]
 ];

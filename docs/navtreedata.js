@@ -24,9 +24,9 @@
 */
 var NAVTREE =
 [
-  [ "16x2 easyC LCD Library", "index.html", [
-    [ "NAZIV PROIZVODA Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
+  [ "Rotary encoder with easyC library", "index.html", [
+    [ "Rotary encoder with easyC Arduino library", "index.html", [
+      [ "Have fun!", "index.html#autotoc_md7", null ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
@@ -46,7 +46,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html"
+"_rotary-encoder-easy_c-_s_o_l_d_e_r_e_d_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
