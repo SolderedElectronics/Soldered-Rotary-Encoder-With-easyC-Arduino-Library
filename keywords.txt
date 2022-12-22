@@ -10,7 +10,9 @@
 # Methods and Functions (KEYWORD2)
 ##################################################
 
-begin	KEYWORD2
+begin	 KEYWORD2
+getCount KEYWORD2
+getState KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
