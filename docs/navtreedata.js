@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "Rotary encoder with easyC library", "index.html", [
-    [ "Rotary encoder with easyC Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md7", null ]
-    ] ],
+    [ "Rotary encoder with easyC Arduino library", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
