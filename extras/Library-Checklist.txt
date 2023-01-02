@@ -20,7 +20,7 @@
     | (easyC class has all except constructor(pins...) which are stored in sensor class itself, excess functions should be commented out)
     | use native flag if native constructor is called
 ✅ | Document library code using doxygen tags (set PROJECT_NAME, PROJECT_NUMBER and PROJECT_BRIEF)
-❌ | Write some basic examples and document them as in example Template, be sure to change @file tag to new example name too
+✅ | Write some basic examples and document them as in example Template, be sure to change @file tag to new example name too
     | Be sure to add lots of comments
     | In every example add link to the board page using format solde.red/[sku]
     | Get board sku here:
@@ -32,7 +32,7 @@
     | Lines to this repo link e.g. (4 places, scroll to the right for other)
             [![Compile Sketches](https://github.com/e-radionicacom/[repo name]/actions/workflows/compile_test.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/[repo name]/actions/workflows/compile_test.yml)
             [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/[repo name]/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/[repo name]/actions/workflows/make_docs.yml)
-❌ | Also change link to docs to the one provided by GH-pages
+✅ | Also change link to docs to the one provided by GH-pages
 ✅ | Fill in keywords.txt with added function names
 ✅ | Fill in library.properties with:
     | Library name
@@ -49,5 +49,5 @@
 ✅ | Set GitHub pages settings
     | Visit https://github.com/e-radionicacom/[repo name]/settings/pages
     | Change to gh-pages branch and /docs folder
-❌ | Check if docs are made correctly
+✅ | Check if docs are made correctly
 ❌ | PR to Arduino Library Manager if not done already
