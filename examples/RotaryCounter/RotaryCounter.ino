@@ -33,6 +33,9 @@ void setup()
     // If you want another I2C address, enter it in the bracket
     // You can set another I2C address (0x31 - 0x37) by changing address switches on the breakout
     // rotary.begin(0x31);
+
+    // Reset the internal counter
+    rotary.resetCounter();
 }
 
 void loop()

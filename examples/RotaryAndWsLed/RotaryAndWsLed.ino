@@ -17,6 +17,8 @@
  *              With a single button press, you will change the colors between red, green, and blue.
  *              With a double button press, you will turn on and off the LED.
  *              On the long press button, you will change colors increasing the hue value.
+ * 
+ *              NOTE: If you want to use external WS2812 LED, change the pin
  *
  * @authors     Karlo Leksic for soldered.com
  ***************************************************/
