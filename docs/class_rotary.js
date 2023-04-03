@@ -5,6 +5,7 @@ var class_rotary =
     [ "getData", "class_rotary.html#ad4ed12ef133e3c5fcab868ee33737aaf", null ],
     [ "getState", "class_rotary.html#a5f78477afec383e5710e394712ab5631", null ],
     [ "initializeNative", "class_rotary.html#a97492419cda3f366bc53d775c91203e6", null ],
+    [ "resetCounter", "class_rotary.html#adf156363df2dba4d0c2d83fca42b6159", null ],
     [ "rotaryCounter", "class_rotary.html#a90230ab289a90b827e88bd66be2a26fb", null ],
     [ "rotaryState", "class_rotary.html#a9188dfb883eec34a394e1bbccaa2bb8c", null ]
 ];
