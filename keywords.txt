@@ -5,15 +5,23 @@
 ##################################################
 # Datatypes (KEYWORD1)
 ##################################################
-
+Rotary	KEYWORD1
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
-begin	 KEYWORD2
-getCount KEYWORD2
-getState KEYWORD2
+begin	KEYWORD2
+getCount	KEYWORD2
+getState	KEYWORD2
+resetCounter	KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
 ##################################################
+
+BTN_CLICK	LITERAL1
+BTN_DOUBLE_CLICK	LITERAL1
+BTN_LONG_PRESS	LITERAL1
+BTN_LONG_RELEASE	LITERAL1
+ROTARY_CCW	LITERAL1
+ROTARY_CW	LITERAL1

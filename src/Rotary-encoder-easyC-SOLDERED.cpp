@@ -64,10 +64,13 @@ long Rotary::getCount()
 /**
  * @brief                   Get state of the rotary encoder.
  *
- * @return                  0 if the rotary encoder doesn't move
- *                          1 if the rotary encoder rotates clockwise
- *                          2 if the rotary encoder rotates counterclockwise
- *                          3 if the button is pressed
+ * @return                  0 If the rotary encoder doesn't move
+ *                          1 If the button is presed once
+ *                          2 If the button is pressed twice
+ *                          3 If the button is long pressed
+ *                          4 For long button press release
+ *                          5 If the rotary encoder rotates counterclockwise
+ *                          6 If the rotary encoder rotates clockwise
  */
 byte Rotary::getState()
 {
@@ -77,7 +80,7 @@ byte Rotary::getState()
 
 /**
  * @brief                   Reset the internal counter on the breakout.
-*/
+ */
 void Rotary::resetCounter()
 {
     // Send 1 byte to reset the counter variable
