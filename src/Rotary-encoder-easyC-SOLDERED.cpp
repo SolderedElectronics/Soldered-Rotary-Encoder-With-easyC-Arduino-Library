@@ -74,3 +74,13 @@ byte Rotary::getState()
     getData();
     return rotaryState;
 }
+
+/**
+ * @brief                   Reset the internal counter on the breakout.
+*/
+void Rotary::resetCounter()
+{
+    // Send 1 byte to reset the counter variable
+    byte resetFlag = 170;
+    sendData(&resetFlag, 1);
+}

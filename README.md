@@ -4,7 +4,7 @@
 
 | ![Rotary encoder with easyC](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
-| [Rotary encoder with easyC](https://www.solde.red/SKU)                                                            |
+| [Rotary encoder with easyC](https://www.solde.red/333188)                                                            |
 
 Rotary encoder with easyC compliant to [easyC ecosystem](https://www.soldered.com/en/easyC). 
 

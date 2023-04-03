@@ -14,6 +14,8 @@
 
 Rotary rotary;
 
+int counter;
+
 void setup()
 {
     // Initialize serial communication
@@ -27,11 +29,21 @@ void loop()
 {
     // getState function returns the current state of the rotary encoder
     int state = rotary.getState();
+    if(state == 5)
+    {
+      counter++;
+    }
+
+    if(counter > 10)
+    {
+      rotary.resetCounter();
+    }
+    
 
     // If the state is zero, the rotary encoder is not moving
     if (state != 0)
     {
-        // getCount function returns a counter variable. Counter add 1 if the encoder is rotated clockwise or subtract 1
+        /*// getCount function returns a counter variable. Counter add 1 if the encoder is rotated clockwise or subtract 1
         // if the encoder is rotated counterclockwise.
         int counter = rotary.getCount();
         if (state == 1)
@@ -54,6 +66,11 @@ void loop()
         {
             // If the state variable is equal to 3, the push button on the rotary encoder is pressed
             Serial.println("Button press");
-        }
+        }*/
+        Serial.println(state);
+    }
+    if (state > 10)
+    {
+      rotary.res
     }
 }

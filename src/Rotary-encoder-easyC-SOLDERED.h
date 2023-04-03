@@ -21,6 +21,7 @@ class Rotary : public EasyC
     Rotary();
     long getCount();
     byte getState();
+    void resetCounter();
 
 
   protected:
