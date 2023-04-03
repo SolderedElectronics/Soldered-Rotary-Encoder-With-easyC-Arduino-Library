@@ -15,12 +15,22 @@
 #include "Arduino.h"
 #include "libs/Generic-easyC/easyC.hpp"
 
+// Define states of the rotary encoder and button
+#define ROTARY_IDLE      0
+#define BTN_CLICK        1
+#define BTN_DOUBLE_CLICK 2
+#define BTN_LONG_PRESS   3
+#define BTN_LONG_RELEASE 4
+#define ROTARY_CCW       5
+#define ROTARY_CW        6
+
 class Rotary : public EasyC
 {
   public:
     Rotary();
     long getCount();
     byte getState();
+    void resetCounter();
 
 
   protected:
