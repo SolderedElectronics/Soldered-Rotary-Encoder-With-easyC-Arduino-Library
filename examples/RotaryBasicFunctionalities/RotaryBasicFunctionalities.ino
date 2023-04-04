@@ -32,6 +32,8 @@ void setup()
 
     // If you want another I2C address, enter it in the bracket
     // You can set another I2C address (0x31 - 0x37) by changing address switches on the breakout
+    // NOTE: You have to restart breakout to apply the address change by unplugging and plugging
+    // the easyC or USB-c from the Dasduino 
     // rotary.begin(0x31);
 }
 
