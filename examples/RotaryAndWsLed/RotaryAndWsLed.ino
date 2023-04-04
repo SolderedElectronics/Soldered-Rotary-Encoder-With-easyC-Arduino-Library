@@ -18,8 +18,11 @@
  *              With a double button press, you will turn on and off the LED.
  *              On the long press button, you will change colors increasing the hue value.
  * 
- *              NOTE: If you want to use external WS2812 LED, change the pin
+ *              NOTE: If you want to use an external WS2812 LED, or if your board doesn't have a built-in WS2812 LED, 
+ *                    change the LED_BUILTIN pin to the pin attached to your LED
  *
+ * @link        solde.red/333188
+ * 
  * @authors     Karlo Leksic for soldered.com
  ***************************************************/
 
@@ -33,7 +36,7 @@
 Rotary rotary;
 
 // Create object for ws2812 pixel
-WS2812 pixel(1, 8);
+WS2812 pixel(1, LEDWS_BUILTIN);
 
 int brightness = 50; // For brightness
 int colorIndex;      // Index for RGB colors in the array declared below
