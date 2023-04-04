@@ -40,6 +40,10 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 - [Community & Technical support](https://soldered.com/community)
 
 
+### Original source
+​
+This library is possible thanks to [OneButton ](https://github.com/mathertel/OneButton) library. Thank you, mathertel.
+
 ### Open-source license
 Soldered invests vast amounts of time into hardware & software for these products, which are all open-source. Please support future development by buying one of our products. 
 

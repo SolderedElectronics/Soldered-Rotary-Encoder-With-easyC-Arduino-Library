@@ -11,6 +11,8 @@
  *              This example will show you how you can use rotary encoder functionalities.
  *              Upload the code to the Dasduino and open the Serial Monitor at 115200 baud rate to see what's happening.
  *
+ * @link        solde.red/333188
+ * 
  * @authors     Karlo Leksic for soldered.com
  ***************************************************/
 

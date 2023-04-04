@@ -12,7 +12,9 @@
  *              Upload the code to the Dasduino and open the Serial Monitor at 115200 baud rate to see what's happening.
  *              If you rotate the encoder, the counter will be increased or decreased depending on direction. When pressing 
  *              the button, the counter will reset and count from 0.
- *
+ * 
+ * @link        solde.red/333188
+ * 
  * @authors     Karlo Leksic for soldered.com
  ***************************************************/
 
