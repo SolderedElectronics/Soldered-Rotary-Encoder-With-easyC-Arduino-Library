@@ -1,10 +1,10 @@
 /**
  **************************************************
  *
- * @file        RotaryAndWsLed.ino
+ * @file        RotaryWsLedControl.ino
  * @brief       Example for the rotary encoder with easyC.
  *
- *              For this example you will need any Dasduino board, a USB-c cable, Rotary encoder with easyC, and easyC cable.
+ *              For this example you will need any Dasduino board, a USB-C cable, Rotary encoder with easyC, and easyC cable.
  *              Don't have Dasduino? Get it here: https://soldered.com/categories/dasduino-arduino/dasduino-boards/ 
  *              Don't have easyC cable? Get it here: https://soldered.com/categories/easyc-2/easyc-cables-adapters/
  * 
@@ -17,7 +17,7 @@
  *              With a single button press, you will change the colors between red, green, and blue.
  *              With a double button press, you will turn on and off the LED.
  *              On the long press button, you will change colors increasing the hue value.
- * 
+ *
  *              NOTE: If you want to use an external WS2812 LED, or if your board doesn't have a built-in WS2812 LED, 
  *                    change the LED_BUILTIN pin to the pin attached to your LED
  *
@@ -59,7 +59,7 @@ void setup()
     // If you want another I2C address, enter it in the bracket
     // You can set another I2C address (0x31 - 0x37) by changing address switches on the breakout
     // NOTE: You have to restart breakout to apply the address change by unplugging and plugging
-    // the easyC or USB-c from the Dasduino
+    // the easyC or USB-C from the Dasduino
     // rotary.begin(0x31);
 
     // Init the WS2812 pixel and set the default brightness and color

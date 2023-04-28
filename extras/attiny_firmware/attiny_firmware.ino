@@ -23,7 +23,7 @@ OneButton button(PA6, true);
 int addr = DEFAULT_ADDRESS; // 0x30
 
 volatile long counter = 0; // For counting rotations, +1 if the rotary is rotated clockwise or -1 if the rotary is
-                           // rotated in another  direction
+                           // rotated in another direction
 volatile byte state = 0;   // For holding a state of the breakout
 int currentStateCLK;       // For reading the state of the clock pin
 int lastStateCLK;          // For the last state of the clock pin
