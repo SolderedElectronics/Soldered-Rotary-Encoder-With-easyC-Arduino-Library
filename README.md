@@ -1,6 +1,8 @@
 # Rotary encoder with easyC Arduino library
 
 [![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-Rotary-Encoder-With-easyC-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Rotary-Encoder-With-easyC-Arduino-Library/actions/workflows/make_docs.yml)
+[![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Rotary-Encoder-With-easyC-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Rotary-Encoder-With-easyC-Arduino-Library/actions/workflows/arduino_lint.yml)
+
 
 | ![Rotary encoder with easyC](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------:     |
