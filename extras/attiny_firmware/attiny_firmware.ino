@@ -9,7 +9,7 @@
  ***************************************************/
 
 // Include needed libraries and files
-#include "OneButton.h"
+#include "src/OneButton/OneButton.h"
 #include "Wire.h"
 #include "easyC.h"
 
