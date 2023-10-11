@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['sendaddress_0',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_1',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]]
+  ['initializenative_0',['initializenative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()'],['../class_rotary.html#a97492419cda3f366bc53d775c91203e6',1,'Rotary::initializeNative()']]]
 ];

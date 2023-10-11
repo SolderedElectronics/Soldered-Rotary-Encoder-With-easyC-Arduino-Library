@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['getcount_0',['getCount',['../class_rotary.html#ac15a540589b1e300ab07c9a92c60e4c0',1,'Rotary']]],
-  ['getdata_1',['getData',['../class_rotary.html#ad4ed12ef133e3c5fcab868ee33737aaf',1,'Rotary']]],
-  ['getstate_2',['getState',['../class_rotary.html#a5f78477afec383e5710e394712ab5631',1,'Rotary']]]
+  ['easyc_0',['easyc',['../class_easy_c.html',1,'EasyC'],['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC::EasyC()']]],
+  ['easyc_20arduino_20library_1',['Rotary encoder with easyC Arduino library',['../index.html',1,'']]],
+  ['easyc_2ehpp_2',['easyC.hpp',['../easy_c_8hpp.html',1,'']]],
+  ['encoder_20with_20easyc_20arduino_20library_3',['Rotary encoder with easyC Arduino library',['../index.html',1,'']]],
+  ['err_4',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
 ];
