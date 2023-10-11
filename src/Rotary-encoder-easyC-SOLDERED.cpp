@@ -36,8 +36,7 @@ void Rotary::getData()
     byte state, btnState;
     long counter;
 
-    Wire.beginTransmission(0x30);
-    Wire.requestFrom(0x30, 5);
+    Wire.requestFrom(address, 5);
 
     if (Wire.available() == 5)
     {
